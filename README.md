@@ -1,5 +1,5 @@
 # Web_scraping-Goat_Sneakers
-A web scraping activity to extract sneakers details from [Goat Sneakers](https://www.goat.com/sneakers) using Selenium with Chrome webdriver. Selenium framework was chossen for this task beacause the webpage is rendered in Javascript, which BeautifulSoup and request fails to get data from the page.
+A web scraping activity to extract sneakers details from [Goat Sneakers](https://www.goat.com/sneakers) using Selenium with Chrome webdriver. Selenium framework was chosen for this task beacause the webpage is rendered in Javascript, which BeautifulSoup and request fails to get data from the page.
 
 # Installs
 1. selenium
