@@ -17,6 +17,7 @@ A web scraping activity to extract sneakers details from [Goat Sneakers](https:/
 The following data about the seakers were extracted from the webpage:
 1. year
 2. sneaker name
-3. price
+3. sneaker url
+4. price
 
 More updates coming!!!
