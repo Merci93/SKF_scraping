@@ -14,7 +14,7 @@ A web scraping activity to extract sneakers details from [Goat Sneakers](https:/
 > [Download Chrome Webdriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 
 # Data
-The following data is to be extracted from the webpage:
+The following data about the seakers were extracted from the webpage:
 1. year
 2. sneaker name
 3. price
