@@ -1,6 +1,5 @@
-# SKF_scraping
-A web scraping activity to extract motor parts data from SKF.com using Selenium with Chrome webdriver.
-
+# Web_scraping-Goat_Sneakers
+A web scraping activity to extract sneakers details from [Goat Sneakers](https://www.goat.com/sneakers) using Selenium with Chrome webdriver. Selenium framework was chossen for this task beacause the webpage is rendered in Javascript, which BeautifulSoup and request fails to get data from the page.
 
 # Installs
 1. selenium
@@ -14,6 +13,10 @@ A web scraping activity to extract motor parts data from SKF.com using Selenium 
 > 2. Select **Help** and click **ABout Google Chrome** to see your chrome version. Doing this might automatically update your chrome to the latest version, thus you'll have to download the latest driver for the version.
 > [Download Chrome Webdriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 
-
+# Data
+The following data is to be extracted from the webpage:
+1. year
+2. sneaker name
+3. price
 
 More updates coming!!!
