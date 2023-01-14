@@ -26,5 +26,6 @@ The following data were extracted from the webpage:
 10. votes
 11. gross
 12. description
+13. image_poster
 
 More updates coming!!!
