@@ -20,12 +20,9 @@ The following data were extracted from the webpage:
 4. run time
 5. category
 6. rating
-7. metascore
-8. director
-9. stars/actors
-10. votes
-11. gross
-12. description
-13. image_poster
+7. votes
+8. gross
+9. director
+10. description
 
 More updates coming!!!
