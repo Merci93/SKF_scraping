@@ -16,7 +16,7 @@ driver_path = "path to chrome driver"
 driver = webdriver.Chrome(service = Service(driver_path))
 
 # second alternative to dwonloading chrome driver
-# driver = Chrome()
+# driver = webdriver.Chrome()
 
 # open url using chrome driver
 driver.get(url)
