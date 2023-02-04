@@ -1,5 +1,5 @@
 # Description
-A web scraping activity to extract the top 200 movies of all time from the IMDb site using the search query `top 500 movies of all time` in [Google Search Engine](https://www.google.com), with Selenium and Chrome webdriver. [Selenium](https://selenium-python.readthedocs.io/) (a web browser automation tool) was selected for this task because of the automation capabilities it offers such as `click()`, `wait`, `webdriver` and lots more.
+A web scraping activity to extract the top 200 movies of all time from the IMDb site using the search query `top 500 movies of all time` in [Google Search Engine](https://www.google.com), with Selenium and Chrome webdriver. [Selenium](https://selenium-python.readthedocs.io/) (a web browser automation tool) was selected for this task because of the automation capabilities it offers such as `click()`, `wait`, and `webdriver`.
 
 # Installs
 1. selenium
